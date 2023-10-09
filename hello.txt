@@ -1,1 +1,2 @@
 init-commit
+We have created a branch called: example-branch
